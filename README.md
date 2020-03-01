@@ -6,4 +6,4 @@ There are 2 command line arguments for this script: the image file path (--dog),
 If the eyes are too big, try float values between 0 and 1 to shrink the laser eye size. If they are too small, use scale values larger than 1.
 
 ### Input:
-[https://github.com/johna1020/Nani_Dogs/blob/master/example/input.jpg]
+![input](https://github.com/johna1020/Nani_Dogs/blob/master/example/input.jpg)
