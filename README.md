@@ -7,3 +7,6 @@ If the eyes are too big, try float values between 0 and 1 to shrink the laser ey
 
 ### Input:
 ![input](https://github.com/johna1020/Nani_Dogs/blob/master/example/input.jpg)
+
+### Output:
+![ouput](https://github.com/johna1020/Nani_Dogs/blob/master/example/nanidog.png)
