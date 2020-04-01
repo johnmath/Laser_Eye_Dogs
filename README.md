@@ -1,4 +1,4 @@
-# Nani_Dogs
+# Laser_Eye_Dogs
 This script uses a pretrained CNN from https://github.com/kairess/dog_face_detector to find dog's eyes and overlay laser eyes on them.
 
 There are 2 command line arguments for this script: the image file path (--dog), and the size of the laser eyes as a float (--scale)
